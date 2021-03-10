@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div>
+    <table>
+        <tr>
+            <td>Username</td>
+            <td><input type="text" name="username" id="loginUsername" /></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" name="password" id="loginPassword" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button onclick="login()">Login</button></td>
+        </tr>
+    </table>
+</div>
+<script type="text/javascript">
+    function login() {
+        let userName = document.getElementById('loginUsername').value;
+        let password = document.getElementById('loginPassword').value;
+        let body = {
+            'username': userName,
+            'password': password
+        };
+        //postRequest().then(response => {
+        //    debugger;
+        //    localStorage.setItem('bearer', response);
+        //    getRequest('/Home/index');
+        //}).catch(reason => {
+        //    window.alert('Invalid login credentials');
+        //})
+        fetch('/user/login', {
+            method: 'POST',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(body)
+        }).then(response => {
+            if (response.ok) {
+                window.location.href = '/Home/index';
+            }
+            else {
+                window.alert('Invalid login credentials');
+            }
+        });
+    }
+</script>

@@ -1,0 +1,28 @@
+﻿@model BookListViewModel
+@{
+    ViewData["Title"] = "All books";
+}
+
+<div>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+        </tr>
+        @foreach (var book in Model.AllBooks)
+        {
+            <tr class="bookListRow" onclick="window.location.href = '/book/details/@book.Id'">
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+            </tr>
+        }
+    </table>
+</div>
+<script>
+
+</script>
+<style>
+    tr.bookListRow:hover {
+        cursor: pointer;
+    }
+</style>

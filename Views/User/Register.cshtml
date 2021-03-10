@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Register a new user";
+}
+<div>
+    <p>Register new user by entering the information.</p>
+    <form method="post" asp-controller="User" asp-action="register">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td><input type="text" name="Username" /></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="text" name="Password" /></td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="text" name="Email" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+    </form>
+</div>

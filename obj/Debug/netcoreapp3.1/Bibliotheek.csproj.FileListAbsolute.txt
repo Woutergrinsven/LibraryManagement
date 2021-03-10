@@ -1,0 +1,157 @@
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.exe
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.deps.json
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.json
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.dev.json
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.Views.dll
+C:\Projects\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csprojAssemblyReference.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfoInputs.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfo.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CoreCompileInputs.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.Manifest.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.xml
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bibliotheek.styles.css
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.input.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.output.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorCoreGenerate.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cs
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.genruntimeconfig.cache
+C:\Projects\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CopyComplete
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.exe
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.deps.json
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.json
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.dev.json
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.Views.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfoInputs.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfo.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CoreCompileInputs.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.Manifest.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.xml
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bibliotheek.styles.css
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.input.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.output.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorCoreGenerate.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CopyComplete
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.genruntimeconfig.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Bibliotheek.csprojAssemblyReference.cache
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Library project\Bibliotheek\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Library project\Bibliotheek\obj\Debug\netcoreapp3.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.exe
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.deps.json
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.json
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.runtimeconfig.dev.json
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.Views.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Projects\Library project\LibraryManagement\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.csprojAssemblyReference.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfoInputs.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.AssemblyInfo.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CoreCompileInputs.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.RazorAssemblyInfo.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.Manifest.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\staticwebassets\Bibliotheek.StaticWebAssets.xml
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bibliotheek.styles.css
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.input.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.TagHelpers.output.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.RazorCoreGenerate.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Logout.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cache
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.RazorTargetAssemblyInfo.cs
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.Views.pdb
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.csproj.CopyComplete
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.dll
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.pdb
+C:\Projects\Library project\LibraryManagement\obj\Debug\netcoreapp3.1\Bibliotheek.genruntimeconfig.cache
